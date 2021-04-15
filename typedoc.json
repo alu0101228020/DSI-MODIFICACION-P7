@@ -1,0 +1,6 @@
+{
+    "entryPoints": [
+        "./src/tail.ts"
+    ],
+    "out": "./docs"
+}
